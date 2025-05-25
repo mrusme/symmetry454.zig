@@ -1,0 +1,12 @@
+.{
+    .name = .symmetry454_zig,
+    .version = "0.0.1",
+    .fingerprint = 0x395989ff6ced17f2,
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
